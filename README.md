@@ -1,4 +1,5 @@
-<img SRC="https://i.ibb.co/vHGxnDb/newlocalhost.png" width="25%">
+<img SRC="https://github.com/j4r1ng/Localhost-Shell-/blob/main/lcl.png" width="100%">
+
 
 #Localhost Shell Re-Code By Jaring 
 
