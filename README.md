@@ -1,6 +1,6 @@
-# Localhost-Shell-
-jquery.php shell with password 
+<img SRC="https://i.ibb.co/vHGxnDb/newlocalhost.png" width="25%">
 
+#Localhost Shell
 
 Shell yg menggunakan passwd md5 
 //default password:- Localhost
