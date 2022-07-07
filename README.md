@@ -1,8 +1,12 @@
 <img SRC="https://i.ibb.co/vHGxnDb/newlocalhost.png" width="25%">
 
-#Localhost Shell
+#Localhost Shell Re-Code By Jaring 
 
-Shell yg menggunakan passwd md5 
+#Format Shell
+- php
+- phtml
+
+#Shell yg menggunakan passwd md5 
 //default password:- Localhost
 
 Function:-
