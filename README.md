@@ -23,3 +23,5 @@ Function:-
 
 Anda boleh tukar passwd tersebut di:-
 https://www.md5hashgenerator.com
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=j4r1ng)
